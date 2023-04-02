@@ -1,0 +1,11 @@
+ovmf/
+viper-boot/
+boot/
+
+*.elf
+*.o
+*.EFI
+*.img
+
+build
+viper.h
